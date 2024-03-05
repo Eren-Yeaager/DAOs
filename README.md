@@ -19,7 +19,7 @@ yarn install
 yarn dev
 ```
 
-4. Navigate to https://near.org/flags and add the following URL: `http://127.0.0.1:4040/`.
+4. Navigate to the https://near.org/flags and add the following URL: `http://127.0.0.1:4040/`.
 
 Note: The server will serve all the widgets from all the apps, each app under the account specified in `bos.config.json`. If an app uses a widget from another account that you have in the workspace, the gateway will show you the local widget instead of the remote one. That's great for working on multiple apps/accounts simultaneously.
 
